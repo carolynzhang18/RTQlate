@@ -76,7 +76,7 @@ const Landing = () => {
           empower yourself to achieve professional victories with every word.
         </p>
       </div>
-      <Link to="/main" className="bg-white text-black p-4 px-6 rounded-full border-0
+      <Link to="/setup" className="bg-white text-black p-4 px-6 rounded-full border-0
                                   border-black hover:bg-black hover:text-white">
         Try Now
       </Link>
